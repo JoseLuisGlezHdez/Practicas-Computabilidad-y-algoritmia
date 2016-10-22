@@ -1,1 +1,1 @@
-# Practicas-Computavilidad-y-algoritmia
+# Practicas-Computabilidad-y-algoritmia
